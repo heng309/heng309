@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am currently a master student of computer science at University of Florida. I am interested in finance, industry, and computer science.
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+
 <!--
 **heng309/heng309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
